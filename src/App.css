@@ -1,0 +1,20 @@
+.droppedDown{
+  background-color: aliceblue;
+  position:relative;
+  width: 200px;
+}
+
+.button{
+  background-color: black;
+  text-emphasis-color: white;
+  height: 30px;
+  width: 200px;
+  color:black;
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+}
+
+.App{
+  background-color: black;
+}
